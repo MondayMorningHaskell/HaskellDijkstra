@@ -24,6 +24,7 @@ dependencies:
 - array
 - hashable
 - heap
+- search-algorithms
 - unordered-containers
 
 library:
